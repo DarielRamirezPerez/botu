@@ -7,3 +7,4 @@ mega.py
 requests_toolbelt
 telethon
 tenacity
+socks
